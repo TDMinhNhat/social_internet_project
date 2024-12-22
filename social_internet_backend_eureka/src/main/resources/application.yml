@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: social_internet_backend_eureka
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+server:
+  port: 8761
