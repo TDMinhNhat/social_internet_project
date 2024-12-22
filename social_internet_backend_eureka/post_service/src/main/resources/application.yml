@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: post_service
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: post_service
+server:
+  port: 10000
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: ${EUREKA_URI:http://localhost:8761/eureka}
+  instance:
+    preferIpAddress: true
