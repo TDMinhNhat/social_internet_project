@@ -58,8 +58,8 @@ Một số tính năng đặc trưng của ứng dụng:
 		<li>Security: JWT (Json Web Token), Spring OAuth2 (đăng nhập bằng: Github, Discord, Microsoft,...)</li>
 		<li>CI/CD: Docker, Jenkins</li>
 		<li>Deployment: Vercel (cho Frontend), EC2 (AWS - cho Backend)</li>
-		<li>Kiến trúc: Microservices, Event-driven, Multi-layered</li>
-		<li>Công nghệ khác: AI (dự báo, xử lý ảnh,...), Blockchain, Apache Kafka</li>
+		<li>Kiến trúc: Microservices, Event-driven và Multi-layered</li>
+		<li>Công nghệ khác: AI (dự báo, xử lý ảnh,...), Blockchain, Apache Kafka, Socket I/O</li>
 		<li>Công cụ khác: S3 (AWS - Lưu trữ dữ liệu), Jira (lập kế hoạch)</li>
 	</ul>
 </div> 
