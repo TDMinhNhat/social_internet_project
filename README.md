@@ -6,6 +6,7 @@
 		<a href="#giới-thiệu">📘 Giới Thiệu</a> -
 		<a href="#sơ-đồ-use-case">📑 Sơ đồ use-case</a> -
 		<a href="#kiến-trúc-phần-mềm">📐 Kiến trúc phần mềm</a> - 
+		<a href="#công-nghệ-sử-dụng">📚 Công nghệ sử dụng</a> -
 		<a href="#thành-viên-thực-hiện">👪 Thành viên thực hiện</a>
 	</p>
 </div>
@@ -42,6 +43,13 @@ Một số tính năng đặc trưng của ứng dụng:
 * NHÓM PHÓ PANPAGE: là những người giống như "NHÓM TRƯỞNG" nhưng họ có ít quyền hạn hơn so với nhóm trưởng.
 
 ## KIẾN TRÚC PHẦN MỀM
+<p>Sơ đồ kiến trúc phần mềm:</p>
+
+<div>
+	<img src="./image/architecture.png" />
+</div>
+
+## CÔNG NGHỆ SỬ DỤNG
 
 ## THÀNH VIÊN THỰC HIỆN
 <table align="center">
