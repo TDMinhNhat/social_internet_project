@@ -11,6 +11,22 @@
 </div>
 
 ## 📘 GIỚI THIỆU
+<p align="center">Ứng dụng phần mềm <b>SolarNet</b> là một ứng dụng cho phép mọi người có thể tham gia mạng xã hội kết nối lại với nhau trên toàn thế giới. Với mong
+muốn rằng, mọi người ở mọi phương có thể liên lạc với nhau với nhiều giao thức khác nhau nhưng với ứng dụng này, hỗ trợ các cách giao tiếp đa dạng khác
+nhau sẽ mang đến trải nghiệm cho người dùng cảm thấy thoải mái, tối ưu và tiện nhất có thể.
+</br>
+😍 🌏 ❤️ 👫
+</p>
+
+</br>
+
+Một số tính năng đặc trưng của ứng dụng:
+1. Đăng các bài posts lên trên trang cá nhân, group/fanpage.
+2. Nhận xét các bài posts đã được đăng trên mạng xã hội.
+3. Chia sẻ lại bài posts.
+4. Tìm kiếm, kết bạn trên cộng đồng.
+5. Có thể tạo một group/fanpage trên mạng để có thể thêm mọi người vào.
+6. Nhắn tin bạn bè, group/fanpage. Có thể thực hiện các cuộc gọi thoại.
 
 ## 📑 SƠ ĐỒ USE-CASE
 <p>Sơ đồ use-case mô tả các chức năng ứng với các actors trong hệ thống:</p>
