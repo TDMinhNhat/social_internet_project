@@ -46,6 +46,16 @@ Một số tính năng đặc trưng của ứng dụng:
 * NHÓM TRƯỞNG PANPAGE: là những người dùng nhưng khi xét khía cạnh trong một nhóm, tổ chức hay gọi là panage là những người đứng đầu trong nhóm đó.
 * NHÓM PHÓ PANPAGE: là những người giống như "NHÓM TRƯỞNG" nhưng họ có ít quyền hạn hơn so với nhóm trưởng.
 
+## SƠ ĐỒ CLASS
+<p>Sơ đồ class mô tả mối quan hệ giữa các lớp trong models: </p>
+
+<div align="center">
+	<img src="./image/class.png"/>
+</div>
+
+<i>Sơ đồ class này là sơ đồ tổng quát của các đối tượng với nhau, khi ánh xạ xuống CSDL sẽ có những đối tượng thuộc CSDL này, có đối tượng thuộc CSDL 
+nên khi ánh xạ xuống thì hoàn toàn tách biệt nhau.</i>
+
 ## KIẾN TRÚC PHẦN MỀM
 <p>Sơ đồ kiến trúc phần mềm:</p>
 
