@@ -73,7 +73,7 @@ nên khi ánh xạ xuống thì hoàn toàn tách biệt nhau.</i>
 		<li>CI/CD: Docker, Jenkins</li>
 		<li>Deployment: Vercel (cho Frontend), EC2 (AWS - cho Backend)</li>
 		<li>Kiến trúc: Microservices, Event-driven và Multi-layered</li>
-		<li>Công nghệ khác: AI (dự báo, xử lý ảnh,...), Blockchain, Apache Kafka, Socket I/O</li>
+		<li>Công nghệ khác: Spring OpenFeign, AI (dự báo, xử lý ảnh,...), Blockchain, Apache Kafka, Socket I/O</li>
 		<li>Công cụ khác: S3 (AWS - Lưu trữ dữ liệu), Jira (lập kế hoạch)</li>
 	</ul>
 </div> 
